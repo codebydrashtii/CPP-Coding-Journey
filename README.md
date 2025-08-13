@@ -1,27 +1,35 @@
-# Day 1 – C++ Coding Journey 🚀
+# 🚀 C++ Coding Journey
 
-This repository contains my Day 1 C++ programs as part of my daily coding practice.
-
----
-
-## 📂 Programs
-
-1. **Hello World** – [main.cpp](main.cpp)  
-   Prints "Hello World" on the screen.
-
-2. **Print My Name** – [program2.cpp](program2.cpp)  
-   Displays my name as output.
-
-3. **Sum of Two Numbers** – [program3.cpp](program3.cpp)  
-   Takes two numbers and displays their sum.
-
-4. **Calculator of Two Numbers** – [program4.cpp](program4.cpp)  
-   Performs addition, subtraction, multiplication, and division of two numbers.
+Welcome to my daily C++ coding practice repository!  
+Here, I upload all the programs I write each day to track my learning progress and improve my problem-solving skills.
 
 ---
 
-## 💡 Goal
-I will be uploading my C++ practice programs here every day to track my learning progress and share it publicly.
+## 📅 Day 1 – C++ Basics
+
+| Program No. | Program Name | Description | Link |
+|-------------|--------------|-------------|------|
+| 1 | Hello World | Prints "Hello World" to the screen. | [View Code](Day1/main.cpp) |
+| 2 | Print My Name | Displays my name as output. | [View Code](Day1/program2.cpp) |
+| 3 | Sum of Two Numbers | Takes two numbers and prints their sum. | [View Code](Day1/program3.cpp) |
+| 4 | Calculator | Performs addition, subtraction, multiplication, and division. | [View Code](Day1/program4.cpp) |
 
 ---
-⭐ *Stay tuned for Day 2!*
+
+## 📅 Day 2 – Loops & Conditions
+
+| Program No. | Program Name | Description | Link |
+|-------------|--------------|-------------|------|
+| 1 | Even or Odd | Checks whether a number is even or odd. | [View Code](Day2/evenOdd.cpp) |
+| 2 | Print 1 to N | Prints all numbers from 1 to N. | [View Code](Day2/print1toN.cpp) |
+
+---
+
+## 📌 Goals
+- Practice C++ daily.
+- Cover basic to advanced concepts step-by-step.
+- Build a strong foundation in problem solving.
+
+---
+
+⭐ *Follow my journey as I keep learning and adding new programs every day!*
