@@ -12,7 +12,7 @@ Here, I upload all the programs I write each day to track my learning progress a
 | 1 | Hello World | Prints "Hello World" to the screen. | [View Code](Day1/main.cpp) |
 | 2 | Print My Name | Displays my name as output. | [View Code](Day1/program2.cpp) |
 | 3 | Sum of Two Numbers | Takes two numbers and prints their sum. | [View Code](Day1/program3.cpp) |
-| 4 | Calculator | Performs addition, subtraction, multiplication, and division. | [View Code](Day1/program4.cpp) |
+| 4 | Calculator | Performs addition, subtraction, multiplication,division and modulo. | [View Code](Day1/program4.cpp) |
 
 ---
 
